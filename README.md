@@ -1,4 +1,5 @@
-Pre-Alpha 1
+Player_Prediction_v1 is fully operational. It needs hyperparameter tuning and a lot of tidying/renaming/reorganizing code to make it easier to follow,
+but for the sake of functionality, it is complete.
 
 This repository is a project that involves creating a new metric to monitor talent in the National Basketball Association that evaluates players based on weighted averages that exclude the top 40 scorers in the league. 
 It seeks to be a benchmark analytical tool to evaluate not the best players on each team, but to find value in players whose stats may not seem to be amazing at a glance.
