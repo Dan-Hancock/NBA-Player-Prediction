@@ -2,6 +2,7 @@ Player_Prediction_v1 is fully operational. It needs hyperparameter tuning,
 but for the sake of functionality, it is complete.
 
 Changelog:
+
 V1.1 cleaned variables and coding structure to be more professional
 
 V1.2 added simple comments to decision tree section
