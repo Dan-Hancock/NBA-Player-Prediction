@@ -3,6 +3,7 @@ but for the sake of functionality, it is complete.
 
 Changelog:
 V1.1 cleaned variables and coding structure to be more professional
+
 V1.2 added simple comments to decision tree section
 
 This repository is a project that involves creating a new metric to monitor talent in the National Basketball Association that evaluates players based on weighted averages that exclude the top 40 scorers in the league. 
