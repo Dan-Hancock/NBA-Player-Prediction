@@ -1,5 +1,5 @@
 Player_Prediction_v1 is fully operational. It needs hyperparameter tuning,
-but for the sake of functionality, it is complete.
+but for the sake of functionality, it is complete. The next step will involve implementing functionality to search and predict for a specific player by name
 
 Changelog:
 
